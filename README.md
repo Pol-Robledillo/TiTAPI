@@ -13,4 +13,4 @@ Li hem instal·lat les següents llibreries:
 
 Per utilitzar aquesta API s'ha d'iniciar des del servei de hosting de Replit o obrint una terminal al directori de la aplicació i executar la comanda "node index.js".
 
-Pots trobar l'API implementada en Node.js allotjada a Replit en aquest [enllaç](https://replit.com/@polrobledillo7e/TiTAPI#index.js)
+Pots trobar l'API implementada en Node.js allotjada a Replit en aquest [enllaç](https://replit.com/@polrobledillo7e/TiTAPI)
