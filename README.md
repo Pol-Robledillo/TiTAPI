@@ -10,3 +10,7 @@ Li hem instal·lat les següents llibreries:
 - **Fs**: la llibreria que hem utilitzat per emmagatzemar la configuració de la connexió a la base de dades en un fitxer a part del principal de l’aplicació.
 - **Bcrypt**: utilitzada per hashejar les contrasenyes dels usuaris i per fer les comparacions amb les emmagatzemades a la base de dades.
 - **CORS**: vam haver d’afegir aquesta llibreria per poder accedir a l’API des de la web ja que donava un error al fer la connexió perquè cada una es troba en un domini diferent.
+
+Per utilitzar aquesta API s'ha d'iniciar des del servei de hosting de Replit o obrint una terminal al directori de la aplicació i executar la comanda "node index.js".
+
+Pots trobar l'API implementada en Node.js allotjada a Replit en aquest [enllaç](https://replit.com/@polrobledillo7e/TiTAPI#index.js)
