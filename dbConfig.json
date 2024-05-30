@@ -1,0 +1,7 @@
+{
+    "user": "joaquinalcazar",
+    "host": "postgresql-joaquinalcazar.alwaysdata.net",
+    "database": "joaquinalcazar_titstats",
+    "password": "indescifrable1",
+    "port": 5432
+}
